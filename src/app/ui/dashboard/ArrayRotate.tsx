@@ -34,7 +34,7 @@ export default function ArrayRotate() {
 
 	return (
 		<section>
-			<h2>RETO DC</h2>
+			<div>RETO DC</div>
 			<div>
 				<input
 					style={{ padding: '1rem', marginBottom: '3rem', color: 'black' }}
